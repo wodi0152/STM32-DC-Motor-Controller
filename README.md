@@ -17,6 +17,12 @@ The project implements PWM motor speed control, forward/reverse direction contro
 - L298N H-bridge motor driver
 - XL4015 DC-DC power converter
 
+## Schematic
+
+Click the schematic to open the full PDF version.
+
+[![Motor Controller Schematic](Images/motor_schematic.png)](Hardware/motor.pdf)
+
 ## Hardware
 
 - STM32 NUCLEO-F401RE
