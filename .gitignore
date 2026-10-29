@@ -1,0 +1,32 @@
+# STM32CubeIDE build folders
+Debug/
+Release/
+
+# Build files
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.map
+*.list
+*.bin
+*.hex
+
+# Temporary files
+*.bak
+*.tmp
+*.log
+
+# Altium temporary / backup files
+History/
+__Previews/
+*.SchDocPreview
+*.PcbDocPreview
+*.PrjPcbStructure
+*.REP
+*.LOG
+
+# OS
+Thumbs.db
+.DS_Store
