@@ -211,9 +211,9 @@ The L298N `+5V` output is not used to power the NUCLEO board.
 
 ## Hardware Schematic
 
-The complete project schematic is available as a PDF:
+Click the schematic preview to open the full PDF.
 
-[📄 Open Motor Controller Schematic](Hardware/motor.pdf)
+[![Motor Controller Schematic](Images/motor_schematic.png)](Hardware/motor.pdf)
 
 The schematic includes:
 
